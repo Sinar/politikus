@@ -1,3 +1,3 @@
 # Politikus
 
-## Disclaimer : This repo  may contains nuts.
+## Disclaimer : This repo  may contain nuts.
