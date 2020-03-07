@@ -1,0 +1,7 @@
+build-essential
+python-dev
+libpcre2-dev
+poppler-utils
+graphicsmagick
+tesseract-ocr
+libreoffice
