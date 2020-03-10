@@ -34,7 +34,7 @@ progresses.
 # Supported by
 
 This project is supported by Hivos East Africa, NMG and indirectly via IDRC,
-Alternatives, (Montreal) and the kind individual donations to Sinar Project.
+Alternatives, (Montreal) and the kind individual contributors to Sinar Project.
 
 Also this project would not be possible without all the  great people working
 on open data standards of Popolo-spec, Open Contracting Data Standard,
