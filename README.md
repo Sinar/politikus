@@ -30,12 +30,13 @@ progresses.
 
  * Khairil Yusof <khairil.yusof@sinarproject.org>
  * Justine Pepin
+ * Paul Wafula
  
 # Supported by
 
-This project is supported by Hivos East Africa, NMG and indirectly via IDRC,
-Alternatives, (Montreal) and the kind individual contributors to Sinar Project.
+This project is supported by Hivos East Africa, Nation Media Group.
+Indirectly via IDRC, Alternatives, (Montreal) and the kind individual contributors to Sinar Project.
 
 Also this project would not be possible without all the  great people working
 on open data standards of Popolo-spec, Open Contracting Data Standard,
-Beneficial Ownership Data Standard, COST IDS and more.
+Beneficial Ownership Data Standard and COST IDS
