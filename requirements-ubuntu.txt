@@ -3,7 +3,5 @@ python-dev
 libpcre2-dev
 poppler-utils
 graphicsmagick
-pdftk
 tesseract-ocr
 libreoffice
-md5
