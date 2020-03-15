@@ -1,7 +1,9 @@
 build-essential
 python-dev
 libpcre2-dev
+libpcre3-dev
 poppler-utils
 graphicsmagick
 tesseract-ocr
 libreoffice
+
