@@ -6,4 +6,5 @@ poppler-utils
 graphicsmagick
 tesseract-ocr
 libreoffice
-
+qpdf
+ruby
