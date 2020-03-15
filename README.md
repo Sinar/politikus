@@ -26,6 +26,12 @@ This platform is in early stages of development, and better
 information for developers and users will be updated as it
 progresses.
 
+## collective.documentviewer
+
+Requires Ruby package docsplit
+
+`gem install ruby`
+
 #Contributors
 
  * Khairil Yusof <khairil.yusof@sinarproject.org>
