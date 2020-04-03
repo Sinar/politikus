@@ -18,6 +18,15 @@ As the data and metadata is stored using open data standards of Popolo-spec,
 OCDS, COST IDS and others, it can be exported, and also use other tools
 developed by others using these standards.
 
+Open Data Standards Content Types
+
+ * Popolo-spec Content types https://github.com/Sinar/popolo.contenttypes
+ * OCDS Content types https://github.com/Sinar/ocds.contenttypes
+
+Issue Tracking and Relations
+
+* https://github.com/Sinar/politikus.contenttypes
+
 # Installation and Configuration
 
 TODO
