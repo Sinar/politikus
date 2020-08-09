@@ -19,6 +19,8 @@ lib64/
 parts/
 sdist/
 var/
+src/
+bin/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
@@ -26,6 +28,10 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+# Celery database and files
+celerydb.sqlite
+celeryresults.sqlit
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
