@@ -88,7 +88,7 @@ optional for document previews and text indexing:
 
 Doccument Viewer 
 
-#Contributors
+# Contributors
 
  * Khairil Yusof <khairil.yusof@sinarproject.org>
  * Justine Pepin
@@ -99,8 +99,11 @@ Doccument Viewer
 ![Hivos](https://sinarproject.org/media/hivos_logo-1.png/@@images/7485dd1c-7b0c-47a7-a940-d7966445764f.png)
 ![OD4D](https://sinarproject.org/media/partner-logos/copy_of_od4d.png/@@images/a9c51168-cbba-4ee1-9978-bd7c43136657.png)
 
-This project is supported by Hivos East Africa, Nation Media Group.
-Indirectly via IDRC, Alternatives, (Montreal) and the kind individual contributors to Sinar Project.
+This project is funded and supported by Hivos East Africa, and indirectly via International Development Research Centre (IDRC) Canada.
+
+With additional support and contributions from Nation Media Group,
+Alternatives, (Montreal) and the kind individual contributors to Sinar
+Project.
 
 Also this project would not be possible without all the  great people working
 on open data standards of Popolo-spec, Open Contracting Data Standard,
