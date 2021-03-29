@@ -136,3 +136,10 @@ dmypy.json
 
 # mr.developer config
 .mr.developer.cfg
+
+# Jupyter Notebook
+
+.config
+.jupyter
+.local
+.npm
