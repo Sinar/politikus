@@ -1,5 +1,6 @@
 build-essential
 python-dev
+python3-dev
 libpcre2-dev
 libpcre3-dev
 poppler-utils
