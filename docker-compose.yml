@@ -1,0 +1,8 @@
+version: "3.3"
+services:
+    politikus:
+        ports:
+            - "8080:8008"
+        build: .
+        volumes:
+         - ./data:/data

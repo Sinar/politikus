@@ -1,0 +1,5 @@
+# Keep this in sync with https://dist.plone.org/release/5.2.4/versions.cfg
+setuptools==42.0.2
+
+# zc.buildout is build tool for plone
+zc.buildout==2.13.3
