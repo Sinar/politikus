@@ -58,7 +58,6 @@ prototype
 .qws
 README.rst
 release
-requirements.txt
 setup.cfg
 setup.py
 setup.pyc
