@@ -5,7 +5,6 @@ bin
 bootstrap_jenkins.sh
 .bowerrc
 .buildout
-buildout.cfg
 buildout.d
 .bundle
 .cache
