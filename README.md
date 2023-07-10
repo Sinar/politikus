@@ -34,6 +34,8 @@ Issue Tracking and Relations
 
 ## System requirements
 
+Current development is on Python 3 and Python 2 is no longer supported.
+
 Requirements for ubuntu can be installed 
 `sudo xargs -a ubuntu-pkg.list apt install`
 
