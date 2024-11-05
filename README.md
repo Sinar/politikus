@@ -46,10 +46,10 @@ Recommended to install virtualenv python environment for some custom
 packages
 
 ```
-virtualenv python-plone
-source python-plone/bin/activate 
-pip install zc.buildout plonecli
-
+python3.8 -m venv venv
+venv/bin/pip install setuptools==65.7.0 zc.buildout==3.0.1 wheel==0.38.4 \
+plonecli
+venv/bin/buildout bootstrap
 ```
 
 ### Buildout
