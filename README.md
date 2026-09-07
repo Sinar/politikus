@@ -22,7 +22,7 @@ developed by others using these standards.
 
 Open Data Standards Content Types
 
- * Popolo-spec Content types https://github.com/Sinar/popolo.contenttypes
+ * Popolo-spec Content types https://github.com/Sinar/politikus.popolo
  * OCDS Content types https://github.com/Sinar/politikus.ocds
  * Open Ownership Content Types https://github.com/Sinar/politikus.bods
 
@@ -81,7 +81,7 @@ plone.restapi
 politikus.contenttypes
 politikus.ocds
 politikus.bods
-popolo.contenttypes
+politikus.popolo
 politikus.theme
 
 optional for document previews and text indexing:
